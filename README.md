@@ -1,5 +1,5 @@
 <h1 style="font-weight:normal" align="center">
-  &nbsp;Учебные проекты по аналитике&nbsp;
+  &nbsp;Учебные проекты по анализу данных&nbsp;
 </h1>
 <br>
 
